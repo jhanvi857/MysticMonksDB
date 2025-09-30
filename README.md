@@ -8,6 +8,10 @@ This repository contains the **database schema, seed data, and setup instruction
 
 --- 
 
+### ER diagram
+![ER_Monastery360](https://github.com/user-attachments/assets/225a5e56-bfc6-4165-bba2-ab02e1491d08)
+
+
 ## Contributors
 
 [Divyesh sathwara](https://github.com/Divyesh7s)
